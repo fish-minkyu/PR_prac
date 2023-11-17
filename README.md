@@ -37,3 +37,6 @@ git push
 
 ## github에서 추가한 내용
 이제 pull을 연습해보자
+```
+git pull
+```
