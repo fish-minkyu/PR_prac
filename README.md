@@ -31,12 +31,15 @@ cat .ssh/id_rsa.pub  <- 공개키 암호화 방식
 ```
 git add
 git commit
-git push
+git push --set-upstream origin main
 ```
 
 
+git remote set-url origin <주소>: remote origin 정보 수정  
+
+
 ## github에서 추가한 내용
-이제 pull을 연습해보자
+이제 pull을 연습해보자  
 ```
 git pull
 ```
