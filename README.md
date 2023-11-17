@@ -27,3 +27,9 @@ git reset <이동할 커밋ID>: 파일은 그대로 있으나 커밋은 사라�
 
 ssh-keygen  
 cat .ssh/id_rsa.pub  <- 공개키 암호화 방식
+
+```
+git add
+git commit
+git push
+```
