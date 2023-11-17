@@ -44,3 +44,14 @@ git config --global init.defaultBranch main: 기본 브랜치 이름 변경
 ```
 git pull
 ```
+
+
+## git 충돌
+
+왜 충돌이 일어날까?  
+local과 remote가 동시적으로 동기화 되는 것이 아니다.
+프로젝트 하면서 add ~ push 하기 전에 항상 pull을 하는 습관을 가지자.
+
+
+git config pull.rebase false
+git pull
