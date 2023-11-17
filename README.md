@@ -36,6 +36,7 @@ git push --set-upstream origin main
 
 
 git remote set-url origin <주소>: remote origin 정보 수정  
+git config --global init.defaultBranch main: 기본 브랜치 이름 변경
 
 
 ## github에서 추가한 내용
