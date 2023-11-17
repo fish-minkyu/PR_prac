@@ -1,4 +1,4 @@
-# Git Practice
+# Git Practice <서버에서 수정>
 
 git을 사용하는 연습을 해봅시다.
 
